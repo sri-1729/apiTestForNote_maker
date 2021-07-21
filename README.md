@@ -1,1 +1,1 @@
-# This is tests for api of Note_maker
+# Thesr are tests for api of Note_maker
